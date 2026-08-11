@@ -12,6 +12,8 @@ Cada comando vem com o campo de explicação **em branco**.
 
 Ao todo são **37 itens** a preencher e fazer os merges
 
+## gurizada aula 6 - branch 6
+
 ---
 
 ## O que você tem que fazer
